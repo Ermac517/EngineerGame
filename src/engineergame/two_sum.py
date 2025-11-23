@@ -1,3 +1,5 @@
+"""Module to find two indices in a list that sum up to a target value."""
+
 def two_sum(nums, target):
     """Find indices of the two numbers that add up to the target.
 
